@@ -10,6 +10,7 @@ namespace Test_Delete
     {
         static void Main(string[] args)
         {
+            //
         }
     }
 }
